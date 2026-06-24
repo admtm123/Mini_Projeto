@@ -55,7 +55,7 @@ Mini_Projeto/
 
 ## Decisão de versão (dados)
 A análise final usa a versão **v2** (outliers tratados). 
-Motivo simples: Outliers (valores extremos) distorcem as estatísticas e métricas.
+Motivo: Outliers (valores extremos) distorcem as estatísticas e métricas.
 Além disso, outliers podem ser:
  - Erros de entrada de dados;
  - Casos muito especiais que não refletem o padrão;
